@@ -1,7 +1,6 @@
 # OpenCV-Artistic-Filters
 
-## Artistic Image Filtering and Pencil Sketch Using OpenCV
-
+## Overview
 This project demonstrates artistic image processing techniques using Python and OpenCV. The program applies multiple image filtering operations such as smoothing, sharpening, edge enhancement, and pencil sketch transformation to generate visually appealing artistic effects.
 
 ---
