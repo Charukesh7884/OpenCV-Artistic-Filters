@@ -43,7 +43,7 @@ Efficiently removes salt-and-pepper noise from images.
 
 ---
 
-# Sharpening Filter
+## Sharpening Filter
 
 ### Sharpening Filter
 Enhances image clarity and highlights important details.
